@@ -1,0 +1,18 @@
+*{
+font-family: 'Roboto Condensed', sans-serif;
+
+ color:blue;
+
+}
+
+h1{
+	text-align :center;
+}
+p{
+	font-size :22px;
+}
+
+.headers-3{
+	font-size :30px ;
+	color:red ;
+}
