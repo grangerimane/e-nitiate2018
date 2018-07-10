@@ -1,0 +1,1 @@
+.getElementById('nicepage').innerHTML='hi there!'>click me yes right here<
