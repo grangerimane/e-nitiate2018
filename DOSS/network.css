@@ -1,0 +1,98 @@
+*{
+	margin:0;
+	padding:0;
+}
+video{
+	margin:0px;
+	padding:0px;
+	z-index: -1;
+
+}
+h1{
+	text-align: center;
+	margin-top: 90px;
+	font-family: "Montserrat", "Open Sans", "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 400;
+    letter-spacing: 10px;
+    font-size:30px;
+    color:#262626;
+}
+p{
+ text-align: center;
+  font-weight: 400px;
+  letter-spacing: 10px;
+font-size:14px;
+  color:#999;
+  font-family: "Open Sans", "Montserrat", "Helvetica Neue", Helvetica, sans-serif;
+  letter-spacing: 2.5px;
+}
+.theblablapart{
+	margin-bottom: 140px;
+}
+.thefields{
+  background-color: #f2f2f2;
+  background-opacity:0.5;
+  background-size:100% 100%;
+  padding:1100px 50px;
+  padding-left:0px;
+  padding-right: 0px;
+  padding-top:20px;
+  margin-bottom: 10px;
+
+
+}
+img{
+  margin-top:15px;
+  width:30%;
+  margin-bottom: 5px;
+  padding-bottom:5px;
+  padding-left:70px;
+  padding-bottom: 5px;
+  display:inline;
+  float: left;
+}
+
+
+.aligned1{
+  padding: 5px;
+  margin-left: 140px;
+
+}
+.text {
+  color: white;
+  font-size: 20px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  white-space: nowrap;
+  }
+  .container {
+  position: relative;
+  width: 30%;
+  float: left;
+}
+.container:hover .overlay {
+  width: 91%;
+}
+
+.image {
+  display: inline;
+  width: 90%;
+
+}
+
+.overlay {
+  position: absolute;
+  bottom: -1;
+  left: 0;
+  right: 0;
+  margin-left: 67px;
+  margin-top: 11px;
+  background-color: #bfbfbf;
+  overflow: hidden;
+  width: 0;
+  height: 96%;
+  transition: 1s ease;
+}
