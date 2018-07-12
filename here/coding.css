@@ -1,0 +1,89 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #ededed;
+    position: -webkit-sticky; /* Safari */
+    position: sticky;
+    top: 0;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: #262626;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-family: "Open Sans", sans-serif;
+    font-size: 14.2px;
+    letter-spacing: 2px;
+}
+
+li a:hover {
+    background-color:#d1d3d6;
+    opacity:1;
+
+}
+video{
+    margin:0px;
+    padding:0px;
+    z-index: -1;
+}
+.WALOU{
+    padding-bottom: 100px;
+}
+h1 {
+    text-align: center;
+    margin-top: 90px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    letter-spacing: 10px;
+    font-size: 30px;
+    color: #262626;
+}
+p {
+    text-align: center;
+    font-weight: 400px;
+    letter-spacing: 1px;
+    font-size: 18px;
+    color: #999;
+    font-family: "Montserrat", sans-serif;
+    margin-top: 65px;
+    margin-left: 52px;
+    margin-right: 52px;
+}
+h2{
+    text-align: center;
+    margin-top: 90px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    letter-spacing: 10px;
+    font-size: 25px;
+    color: #262626;
+}
+.btn{
+   
+}
+button{
+    margin-top: 65px;
+    margin-left: 36.3%;
+}
+h3 {
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 400;
+    letter-spacing: 3px;
+    font-size: 15px;
+    color: white;
+}
